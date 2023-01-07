@@ -1,2 +1,2 @@
-# btccswap
-btccswap
+# bttcswap
+bttcswap
